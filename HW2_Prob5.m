@@ -1,3 +1,8 @@
+% Author Name: Landon Keveanos 
+% Email: Kevean28@students.rowan.edu
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Homework 2
+% Date:10/2/24
 %problem 5
 clear var 
 clc 
